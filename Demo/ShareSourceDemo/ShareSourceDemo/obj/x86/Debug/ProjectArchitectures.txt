@@ -1,0 +1,1 @@
+c:\users\apchin\documents\visual studio 2015\Projects\ShareSourceDemo\ShareSourceDemo\ShareSourceDemo.csproj;x86

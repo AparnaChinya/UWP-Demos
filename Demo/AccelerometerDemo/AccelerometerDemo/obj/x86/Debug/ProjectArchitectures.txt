@@ -1,0 +1,1 @@
+C:\Users\apchin\Desktop\SRM\DEmo\AccelerometerDemo\AccelerometerDemo\AccelerometerDemo.csproj;x86

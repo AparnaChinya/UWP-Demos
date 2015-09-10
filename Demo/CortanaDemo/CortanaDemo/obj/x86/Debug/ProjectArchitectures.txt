@@ -1,0 +1,1 @@
+c:\users\apchin\documents\visual studio 2015\Projects\CortanaDemo\CortanaDemo\CortanaDemo.csproj;x86

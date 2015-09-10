@@ -1,0 +1,2 @@
+c:\users\apchin\documents\visual studio 2015\Projects\BackgroundTaskProject\BackgroundTaskProject\BackgroundTaskProject.csproj;x86
+c:\users\apchin\documents\visual studio 2015\Projects\BackgroundTaskProject\BGTask\BGTask.csproj;x86

@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="GeoLocationDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GeoLocationDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:maps="using:Windows.UI.Xaml.Controls.Maps">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <maps:MapControl x:ConnectionId='1' x:Name="myMap" Width="600" Height="600"/>
+        <Button x:ConnectionId='2' x:Name="button" Content="Add PushPin" HorizontalAlignment="Left" Margin="115,557,0,0" VerticalAlignment="Top"                     />
+
+
+    </Grid>
+</Page>
+
